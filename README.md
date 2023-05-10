@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20there!&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20hu6r1s's%20Github%20Profile.&descAlignY=51&descAlign=62)
+
+![hu6r1s's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu6r1s&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu6r1s&layout=compact&theme=cobalt)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hu6r1s)](https://solved.ac/hu6r1s)
