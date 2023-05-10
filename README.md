@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hu6r1s/hu6r1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20there!&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20hu6r1s's%20Github%20Profile.&descAlignY=51&descAlign=62)
